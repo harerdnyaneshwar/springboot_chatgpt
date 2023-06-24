@@ -1,3 +1,6 @@
+# #For detailed steps and tutorial 
+visit https://www.thesaraltech.com/2023/06/chatgpt-integration-with-sprinboot.html
+
 ## How to Run the project
 
 # compile project
