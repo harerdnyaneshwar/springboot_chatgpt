@@ -8,7 +8,7 @@ visit https://www.thesaraltech.com/2023/06/chatgpt-integration-with-sprinboot.ht
 mvn compile
 ```
 ## run the project
-```
+```bash
 mvn spring-boot:run
 ```
 
